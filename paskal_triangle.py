@@ -14,8 +14,6 @@ T1.tag_configure("center", justify='center')
 
 
 start = [1]
-
-
 for i in range(101):
     pt = paskal_triangle(start)
     T1.insert("1.0", start)
