@@ -1,4 +1,3 @@
-
 import tkinter as tk
 
 def paskal_triangle(old_pt):
